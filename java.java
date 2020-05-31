@@ -1,0 +1,2 @@
+public Static void main(){
+}
